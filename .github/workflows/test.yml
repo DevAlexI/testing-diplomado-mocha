@@ -27,4 +27,4 @@ jobs:
       - name: Instalando dependencias
         run: npm install
       - name: Ejecuta los test de nuestro proyecto
-        run: mocha
+        run: npm mocha
