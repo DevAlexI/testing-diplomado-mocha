@@ -1,0 +1,16 @@
+{
+  "name": "testing-diplomado",
+  "version": "1.0.0",
+  "description": "test con chai y mocha",
+  "main": "calculator.js",
+  "dependencies": {
+    "chai": "^4.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "devlex",
+  "license": "ISC"
+}
